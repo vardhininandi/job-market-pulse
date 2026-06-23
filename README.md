@@ -9,7 +9,7 @@ This project answers a single powerful question:
 
 ##  Dashboard Preview
 
-> ![Dashboard](dashboard.png)
+> ![Dashboard](powerbi/dashboard.png)
 
 ---
 
