@@ -1,0 +1,40 @@
+formatted_experience_level,work_type,total,pct_within_level
+Associate,FULL_TIME,7484,76.8
+Associate,CONTRACT,1377,14.1
+Associate,VOLUNTEER,430,4.4
+Associate,PART_TIME,319,3.3
+Associate,TEMPORARY,121,1.2
+Associate,INTERNSHIP,8,0.1
+Associate,OTHER,4,0.0
+Director,FULL_TIME,3502,93.9
+Director,CONTRACT,136,3.6
+Director,PART_TIME,65,1.7
+Director,TEMPORARY,15,0.4
+Director,OTHER,7,0.2
+Director,INTERNSHIP,4,0.1
+"Entry level",FULL_TIME,29383,80.1
+"Entry level",PART_TIME,4962,13.5
+"Entry level",CONTRACT,1697,4.6
+"Entry level",TEMPORARY,368,1.0
+"Entry level",OTHER,182,0.5
+"Entry level",INTERNSHIP,83,0.2
+"Entry level",VOLUNTEER,6,0.0
+Executive,FULL_TIME,1114,91.8
+Executive,CONTRACT,46,3.8
+Executive,PART_TIME,34,2.8
+Executive,TEMPORARY,9,0.7
+Executive,OTHER,7,0.6
+Executive,VOLUNTEER,3,0.2
+Internship,FULL_TIME,772,53.3
+Internship,INTERNSHIP,493,34.0
+Internship,PART_TIME,139,9.6
+Internship,TEMPORARY,33,2.3
+Internship,CONTRACT,6,0.4
+Internship,OTHER,6,0.4
+"Mid-Senior level",FULL_TIME,33443,80.8
+"Mid-Senior level",CONTRACT,5125,12.4
+"Mid-Senior level",PART_TIME,2152,5.2
+"Mid-Senior level",TEMPORARY,417,1.0
+"Mid-Senior level",OTHER,134,0.3
+"Mid-Senior level",INTERNSHIP,49,0.1
+"Mid-Senior level",VOLUNTEER,47,0.1
