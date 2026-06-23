@@ -1,16 +1,3 @@
-title,total_postings,pct_of_market
-"Sales Manager",669,0.55
-"Customer Service Representative",473,0.39
-"Project Manager",348,0.28
-"Assistant Store Manager",320,0.26
-"Senior Accountant",240,0.20
-"Administrative Assistant",238,0.19
-"Executive Assistant",222,0.18
-"Registered Nurse",210,0.17
-Salesperson,204,0.17
-"Staff Accountant",200,0.16
-Receptionist,200,0.16
-"Account Executive",194,0.16
-"Sales Associate",190,0.16
-"Retail Sales Associate",190,0.16
-"Store Manager",185,0.15
+version https://git-lfs.github.com/spec/v1
+oid sha256:694042f7c68b347d546fb52e0bb290a4565054801a90943517ef64db5c2462d6
+size 475

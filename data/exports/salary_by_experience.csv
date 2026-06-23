@@ -1,8 +1,3 @@
-formatted_experience_level,total_postings,avg_min_salary,avg_max_salary,avg_mid_salary
-Executive,310,175380,228473,201926
-Director,1127,146014,199526,172770
-"Mid-Senior level",7747,104093,144098,124096
-"Not Specified",4354,91444,132620,112032
-Associate,2019,80848,107842,94345
-"Entry level",2732,74137,104932,89535
-Internship,40,61199,90019,75609
+version https://git-lfs.github.com/spec/v1
+oid sha256:7469a924e5deb50c54f5fc9248e9e448989c063382c4cc44dcf30767b936086f
+size 347

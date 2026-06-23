@@ -1,16 +1,3 @@
-company_name,total_postings,full_time_postings
-"Liberty Healthcare and Rehabilitation Services",1108,1092
-"The Job Network",1003,886
-"J. Galt",604,604
-TEKsystems,529,496
-"Lowe's Companies, Inc.",527,277
-"Ingersoll Rand",517,428
-"Capital One",496,494
-"Cogent Communications",476,476
-"Insight Global",418,259
-Dice,415,384
-"Wells Fargo",388,336
-"Circle K",381,139
-Amazon,343,342
-Macy's,333,212
-"Millennium Recruiting, Inc.",329,329
+version https://git-lfs.github.com/spec/v1
+oid sha256:474ec46929e48bc8a423d8d1c4ed988555a1fa1531ce8aa990e13f5296754b67
+size 429
